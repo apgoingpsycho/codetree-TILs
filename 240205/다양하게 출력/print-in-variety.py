@@ -1,1 +1,4 @@
-print("Total days in Year\n"365"/nCircumference rate/n"3.14159265335"")
+print("Total days in Year")
+print(365)
+print("Circumference rate")
+print(3.1415926535)
